@@ -1,0 +1,1 @@
+# TextRemovingImage-croppingYolov4
